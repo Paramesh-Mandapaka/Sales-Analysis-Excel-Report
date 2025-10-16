@@ -97,6 +97,8 @@ The **Sales Dashboard** serves as a complete business intelligence tool, reveali
 It empowers management with **data-driven insights** for future planning, marketing, and strategic investment.
 Sales are geographically concentrated. Expanding to central and eastern U.S. markets could boost overall revenue.
 
+For further insights **download Sales Dashboard.xlsx** and apply filters for more insights.
+
 
 ---
 
