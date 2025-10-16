@@ -1,7 +1,7 @@
 # Sales-Analysis-Excel-Report
 Sales Dashboard provides a comprehensive visualization of company sales performance across multiple dimensions including product categories, customer segments, time periods, and geographical distribution.
 
-# 📊 Sales Dashboard (Excel Project)
+## 📊 Sales Dashboard (Excel Project)
 
 ![Sales Dashboard](./Sales%20Dashboard%20By%20Excel.PNG)
 
