@@ -24,9 +24,6 @@ It is designed for quick decision-making and actionable business insights.
 - **Low Performing Categories:**
   - Labels and Fasteners show minimal sales, suggesting low demand or poor visibility.
 
-**🔍 Insight:**  
-Phones and Chairs dominate sales, reflecting strong B2B demand. Consider targeted marketing for underperforming product lines.
-
 ---
 
 ## 💰 2. Profit Gained Over Time
@@ -35,18 +32,12 @@ Phones and Chairs dominate sales, reflecting strong B2B demand. Consider targete
 - **Office Supplies** remained relatively stable.  
 - Both Furniture and Technology peaked in **2017**, showing strong product diversification and improved margins.
 
-**🔍 Insight:**  
-Profitability growth highlights success in scaling technology products while maintaining leadership in the furniture segment.
-
 ---
 
 ## 🗺️ 3. Sales by State
 
 - The **U.S. sales map** reveals **California** as the highest revenue-generating state (≈ **$457,687.68**).  
 - Other regions contribute moderately.
-
-**🔍 Insight:**  
-Sales are geographically concentrated. Expanding to central and eastern U.S. markets could boost overall revenue.
 
 ---
 
@@ -59,8 +50,6 @@ Sales are geographically concentrated. Expanding to central and eastern U.S. mar
 | 2016 | 700 |
 | 2017 | 800 |
 
-**🔍 Insight:**  
-Customer base steadily increased over four years, indicating higher brand awareness and retention rates.
 
 ---
 
@@ -74,18 +63,12 @@ Customer base steadily increased over four years, indicating higher brand awaren
 | 4️⃣ | Hunter Lopez       |
 | 5️⃣ | Adrian Barton      |
 
-**🔍 Insight:**  
-A few key clients contribute a major share of profits — a “Key Account Management” approach can sustain and grow these relationships.
-
 ---
 
 ## 📈 6. Monthly Sales Trend
 
 - Noticeable spikes in **months 9 and 11** (September & November).  
 - Likely linked to **seasonal promotions** or **year-end corporate purchasing**.
-
-**🔍 Insight:**  
-Forecast demand surges to optimize stock levels and campaign timing.
 
 ---
 
@@ -99,10 +82,21 @@ Forecast demand surges to optimize stock levels and campaign timing.
 
 ---
 
+## Key Insights
+- Phones and Chairs dominate sales, reflecting strong B2B demand. Consider targeted marketing for underperforming product lines.
+- Profitability growth highlights success in scaling technology products while maintaining leadership in the furniture segment.
+- Sales are geographically concentrated. Expanding to central and eastern U.S. markets could boost overall revenue.
+- Customer base steadily increased over four years, indicating higher brand awareness and retention rates.
+- A few key clients contribute a major share of profits — a “Key Account Management” approach can sustain and grow these relationships.
+- Forecast demand surges to optimize stock levels and campaign timing.
+
+
 ## 🧠 Conclusion
 
 The **Sales Dashboard** serves as a complete business intelligence tool, revealing strong product performance, key regional markets, and loyal customer growth.  
 It empowers management with **data-driven insights** for future planning, marketing, and strategic investment.
+Sales are geographically concentrated. Expanding to central and eastern U.S. markets could boost overall revenue.
+
 
 ---
 
@@ -119,7 +113,7 @@ It empowers management with **data-driven insights** for future planning, market
 
 ### 🏁 Author
 **Created by:** *Paramesh Mandapaka*  
-**Role:** Power BI & Excel Developer  
+**Role:** Power BI Developer  
 📧 *mandapakaparamesh9@gmail.com*
 
 ---
