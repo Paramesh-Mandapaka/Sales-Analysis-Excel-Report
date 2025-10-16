@@ -115,7 +115,6 @@ For further insights **download Sales Dashboard.xlsx** and apply filters for mor
 
 ### 🏁 Author
 **Created by:** *Paramesh Mandapaka*  
-**Role:** Power BI Developer  
 📧 *mandapakaparamesh9@gmail.com*
 
 ---
